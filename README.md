@@ -5,7 +5,6 @@ AI is everywhere, and so is time series data. From manufacturing equipment to au
 ## Setup 
 Open and run Expo22_CleaningFlightData.mlx
 
-Additional information about set up
 
 ### MathWorks&reg; Products (http://www.mathworks.com)
 
