@@ -6,7 +6,7 @@ AI is everywhere, and so is time series data. From manufacturing equipment to au
 Open and run Expo22_CleaningFlightData.mlx
 
 
-### MathWorks&reg; Products (http://www.mathworks.com)
+### MathWorks&reg; Products (https://www.mathworks.com)
 
 Requires MATLAB release R2022a or newer
 
